@@ -83,6 +83,7 @@ group :development, :test do
   gem 'database_cleaner'
   gem 'factory_bot_rails'
   gem 'faker'
+  gem 'spring'
 end
 
 group :production, :staging do
